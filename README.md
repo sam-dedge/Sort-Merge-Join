@@ -1,7 +1,7 @@
 # Sort-Merge-Join
 Implementation of optimized sort-merge join algorithm in C++.
 
-## Q3: Sort-merge Join Algorithms (5.5 points)
+## Q3: Sort-merge Join Algorithms
 Consider the following relations:
 > Dept (did (integer), dname (string), budget (double), managerid (integer))
 
@@ -27,3 +27,5 @@ ________________________________________________________________________________
 ```
 3. Required Join is implemented and the file is stored in source directory.
 4. empSorted and deptSorted are also saved for different algorithms like multiwaySort.
+__________________________________________________________________________________________________________________________________________________
+Oregon State University, Winter 2021 (CS540)
